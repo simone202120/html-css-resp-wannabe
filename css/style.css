@@ -165,5 +165,11 @@ img {
     .col-left{
         margin-bottom: 40px;
     }
-   
+  
+ }
+ /* PARTE BONUS*/
+ @media screen and (max-width:769px) and (min-width:1160px) {
+    .container{
+        max-width:100%;
+    }
  }
